@@ -1,5 +1,5 @@
 import {Route, Routes} from "react-router-dom";
-import Information from "../pages/Information/Introduction";
+import Information from "../pages/Information/Information";
 import Counter from "../pages/Counter/Counter";
 import Introduction from "../pages/Introduction/Introduction";
 
